@@ -2,12 +2,14 @@
  * Yet Another Jquery Accordion
  *
  * Original work Copyright 2007-2010 Marco van Hylckama Vlieg
- * Modified work Copyright 2013 Michael Veeck
+ * Modified work Copyright 2014 Michael Veeck
  *
  */
+/*global $, jQuery*/
 (function($)
 {
     "use strict";
+
     $.fn.initMenu = function(options)
     {
         var settings =

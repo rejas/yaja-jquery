@@ -1,0 +1,15 @@
+{
+    "name": "yaja-jquery",
+    "title": "Yet Another Jquery Accordion",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rejas/yaja-jquery"
+    },
+    "dependencies": {
+        "jquery": "*"
+    },
+    "devDependencies": {
+        "jquery": "*"
+    }
+}
